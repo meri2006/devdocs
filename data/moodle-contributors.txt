@@ -793,6 +793,7 @@ Neosi
 Netica
 Neumann
 Newman
+Nexterday
 Nghia
 Nguyen
 Nhan
@@ -1323,6 +1324,7 @@ exe-cutor
 fabmen
 fcbsd
 fdallet
+ferran
 ferran.recio
 ferranrecio
 fhuebler
